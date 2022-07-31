@@ -3,7 +3,7 @@ I'm a Ruby developer.
 
  - 🔭 I’m currently working on a project for collecting recipes.
  - 💬 Ask me about anything related to creation CRM systems.
- - 📫 How to reach me: In telegram - [@marinaruby](t.me/marinaruby)
+ - 📫 How to reach me: In telegram - [@marinaruby](https://t.me/marinaruby)
 
 <!--
 **Bellatrix988/Bellatrix988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
